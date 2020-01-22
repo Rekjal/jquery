@@ -1,0 +1,15 @@
+#walrus-showing {
+    display: none;
+  }
+
+  #hidden {
+    display: none; 
+  }
+
+/* .clickable {
+    display: none;
+} */
+
+#animals {
+    display: show;
+}
